@@ -6,11 +6,11 @@ Sample code to send a message to Microsoft Teams via a configured webhook
 
 1.) Click the '...' menu button to the right of your channel, and select 'Connectors'
 
-![Alt text](images/img1.png?raw=true "Connectors")
+![Alt text](images/img1.png?raw=true "Connectors" | width=400)
 
 2.) Scroll to 'Incoming Webhook' and click 'Configure'
 
-![Alt text](images/img2.png?raw=true "Webhook")
+![Alt text](images/img2.png?raw=true "Webhook" | width=400)
 
 3.) Give your new webhook a name, and click 'Create'
 
